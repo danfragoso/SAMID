@@ -13,6 +13,6 @@
 
 ## Fritzing
 
-![alt tag](https://raw.githubusercontent.com/danfragoso/SAMID/master/images/logo.png)
+![alt tag](https://raw.githubusercontent.com/danfragoso/SAMID/master/images/fritzing.png)
 
 [Download](https://raw.githubusercontent.com/danfragoso/SAMID/master/fritzing/samid.fz)
