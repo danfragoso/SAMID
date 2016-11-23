@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#">Home</a> |
   <a href="PARTS.md">Partes</a> |
-  <a href="#">Fritzing</a> |
+  <a href="FRITZING.md">Fritzing</a> |
   <a href="#">Fotos</a>
 </p>
 

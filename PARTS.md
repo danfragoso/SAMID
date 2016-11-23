@@ -1,4 +1,17 @@
-## Parts List
+![alt tag](https://raw.githubusercontent.com/danfragoso/SAMID/master/images/logo.png)
+
+##
+
+<p align="center">
+  <a href="#">Home</a> |
+  <a href="PARTS.md">Partes</a> |
+  <a href="FRITZING.md">Fritzing</a> |
+  <a href="#">Fotos</a>
+</p>
+
+##
+
+## Partes
 
 * [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
 * [Keypad Shield](https://www.dfrobot.com/wiki/index.php/Arduino_LCD_KeyPad_Shield_(SKU:_DFR0009))
