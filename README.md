@@ -2,7 +2,12 @@
 
 ##
 
-<p style="text-align: center;"> Home Partes Fritizing Fotos  </p>
+<p align="center">
+  <a href="#">Home</a> |
+  <a href="#">Partes</a> |
+  <a href="#">Fritzing</a> |
+  <a href="#">Fotos</a>
+</p>
 
 ##
 
