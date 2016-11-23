@@ -9,7 +9,6 @@
   <a href="#">Fotos</a>
 </p>
 
-##
 
 ## Fritzing
 
