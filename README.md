@@ -1,6 +1,6 @@
 ![alt tag](https://raw.githubusercontent.com/danfragoso/SAMID/master/images/logo.png)
 
-## O Projeto
+##
 
 O SAMID (Sistema Automatizado de Monitoramento e Irrigação Doméstica), é um sistema pensado para automatizar ao máximo a jardinagem doméstica.
 
