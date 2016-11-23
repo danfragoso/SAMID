@@ -1,11 +1,3 @@
-
-
-## Fritzing
-
-![alt tag](https://raw.githubusercontent.com/danfragoso/SAMID/master/images/fritzing.png)
-
-[Download](https://raw.githubusercontent.com/danfragoso/SAMID/master/fritzing/samid.fz)
-
 ## Parts List
 
 * [Arduino Uno](https://www.arduino.cc/en/Main/ArduinoBoardUno)
