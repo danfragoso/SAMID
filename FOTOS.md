@@ -6,6 +6,5 @@
   <a href="README.md">Home</a> |
   <a href="PARTS.md">Partes</a> |
   <a href="FRITZING.md">Fritzing</a> |
-  <a href="FOTOS.md">Fotos</a>|
-  <a href="LICENSE.md">Licença</a>
+  <a href="FOTOS.md">Fotos</a>
 </p>
