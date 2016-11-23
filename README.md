@@ -2,6 +2,10 @@
 
 ##
 
+<p style="text-align: center;"> Home Partes Fritizing Fotos  </p>
+
+##
+
 O SAMID (Sistema Automatizado de Monitoramento e Irrigação Doméstica), é um sistema pensado para automatizar ao máximo a jardinagem doméstica.
 
 Pra quem tem uma horta ou até mesmo plantas decorativas e não tem tanto tempo de ficar em casa cuidando, regando e olhando se a planta está recebendo a quantidade certa de luz. E talvez mesmo pra quem tenha tempo, cada uma tem tamanhos e necessidades distintas. Por isso esse sistema nasceu, ele tira das costas do usuário a parte da irrigação.
